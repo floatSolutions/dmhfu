@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 1.0,
+    "version": 10,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "floatSolutions/dmhfu/main/ff3e568a272ca876d331675fd3d5a6c2.bin"
