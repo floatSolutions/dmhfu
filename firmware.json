@@ -3,5 +3,5 @@
     "version": 25,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "floatSolutions/dmhfu/main/firmware.bin"
+    "bin": "/floatSolutions/dmhfu/main/firmware.bin"
 }
